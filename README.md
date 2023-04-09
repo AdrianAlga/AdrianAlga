@@ -1,8 +1,8 @@
 # 🏄‍♂️ Js_Loop
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Jasa Pembuatan Website`**
 
-hy perkenalkan nama saya Adrian Alga Sakti saya Seorang web developer berpengalaman dengan keahlian dalam mengembangkan solusi web kreatif dan fungsional. Mahir dalam HTML, CSS, JavaScript, dan kerangka kerja web modern seperti React dan Angular. Memiliki pemahaman yang kuat tentang desain responsif, performa web, serta pengoptimalan SEO. Berkomitmen untuk menghasilkan kode yang bersih, efisien, dan aman.
+Hy perkenalkan nama saya Adrian Alga Sakti saya Seorang web developer berpengalaman dengan keahlian dalam mengembangkan solusi web kreatif dan fungsional. Mahir dalam HTML, CSS, JavaScript, dan kerangka kerja web modern seperti React dan Angular. Memiliki pemahaman yang kuat tentang desain responsif, performa web, serta pengoptimalan SEO. Berkomitmen untuk menghasilkan kode yang bersih, efisien, dan aman.
 
 
 ### 🧰 Alat dan Bahasa

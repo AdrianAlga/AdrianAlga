@@ -22,7 +22,7 @@ Hy perkenalkan nama saya Adrian Alga Sakti saya Seorang web developer berpengala
 
 ### 📊 Statistik
 
-![Adrian Alga Sakti GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Adrian Alga Sakti GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian Alga Sakti &show_icons=true&theme=radical)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
